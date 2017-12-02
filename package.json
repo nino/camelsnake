@@ -1,6 +1,6 @@
 {
   "name": "camelsnake",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Convert object keys between camel-case and snake-case",
   "main": "./dist/index.js",
   "repository": "https://github.com/nino/camelsnake",
