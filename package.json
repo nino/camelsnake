@@ -2,7 +2,7 @@
   "name": "camelsnake",
   "version": "1.0.0",
   "description": "Convert object keys between camel-case and snake-case",
-  "main": "index.js",
+  "main": "./dist/index.js",
   "repository": "https://github.com/nino/camelsnake",
   "author": "Nino Annighöfer <nino@ninoan.com>",
   "license": "MIT",
